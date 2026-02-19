@@ -1,3 +1,4 @@
+package puzzle8.start;
 
 public class Node {
     private String state;

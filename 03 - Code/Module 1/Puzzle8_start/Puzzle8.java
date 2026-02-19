@@ -1,4 +1,6 @@
 
+package puzzle8.start;
+
 public class Puzzle8 {
     String initialState = "123804765";
 	String goalState = "281043765";
